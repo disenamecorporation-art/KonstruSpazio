@@ -22,7 +22,7 @@ export const Preloader: React.FC = () => {
     >
       <div className="flex flex-col items-center space-y-6">
         <img
-          src="https://i.postimg.cc/qqdW8LwW/image-Photoroom-(51).png"
+          src="https://i.postimg.cc/mk631BNQ/logoenblancokonstruspazio.png"
           alt="Konstru Spazio Logo"
           className="h-20 w-auto animate-bounce object-contain"
         />

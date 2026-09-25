@@ -38,7 +38,12 @@ export const ContactoPage: React.FC<ContactoPageProps> = ({ onBackToHome }) => {
       </div>
 
       {/* Header section */}
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-16 text-center">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-16 text-center flex flex-col items-center">
+        <img
+          src="https://i.postimg.cc/qqdW8LwW/image-Photoroom-(51).png"
+          alt="Konstru Spazio Logo"
+          className="h-14 w-auto mb-6 object-contain"
+        />
         <h1 className="text-4xl sm:text-6xl font-extralight tracking-tight text-gray-900 mb-4">
           Contacto & <span className="font-bold text-[#E8501E]">Ubicación</span>
         </h1>

@@ -14,7 +14,7 @@ export const Footer: React.FC = () => {
           {/* Col 1: Logo & Slogan */}
           <div className="space-y-4 lg:col-span-2">
             <img
-              src="https://i.postimg.cc/qqdW8LwW/image-Photoroom-(51).png"
+              src="https://i.postimg.cc/mk631BNQ/logoenblancokonstruspazio.png"
               alt="Konstru Spazio Logo"
               className="h-12 w-auto object-contain"
             />

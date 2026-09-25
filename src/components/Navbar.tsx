@@ -57,7 +57,7 @@ export const Navbar: React.FC<NavbarProps> = ({ activeSection, currentView, onNa
             className="flex items-center gap-3 group bg-transparent border-none cursor-pointer"
           >
             <img
-              src="https://i.postimg.cc/qqdW8LwW/image-Photoroom-(51).png"
+              src="https://i.postimg.cc/mk631BNQ/logoenblancokonstruspazio.png"
               alt="Konstru Spazio Logo"
               className="h-11 sm:h-13 w-auto object-contain transition-transform duration-300 group-hover:scale-105"
             />
@@ -117,7 +117,7 @@ export const Navbar: React.FC<NavbarProps> = ({ activeSection, currentView, onNa
         <div className="fixed inset-0 z-40 bg-[#1A1F26]/95 backdrop-blur-xl flex flex-col justify-center items-center md:hidden px-6 transition-all duration-300">
           <div className="flex flex-col items-center space-y-6 w-full max-w-sm">
             <img
-              src="https://i.postimg.cc/qqdW8LwW/image-Photoroom-(51).png"
+              src="https://i.postimg.cc/mk631BNQ/logoenblancokonstruspazio.png"
               alt="Konstru Spazio Logo"
               className="h-16 w-auto mb-4"
             />
